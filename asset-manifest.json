@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EmanoelVitor/react-hn-book-search.git/static/css/main.6555e4bb.css",
+    "main.js": "/EmanoelVitor/react-hn-book-search.git/static/js/main.68a92753.js",
+    "static/js/453.a6cf9390.chunk.js": "/EmanoelVitor/react-hn-book-search.git/static/js/453.a6cf9390.chunk.js",
+    "index.html": "/EmanoelVitor/react-hn-book-search.git/index.html",
+    "static/media/icons8-search.svg": "/EmanoelVitor/react-hn-book-search.git/static/media/icons8-search.44144c63f1114bd734334869ead5c143.svg",
+    "main.6555e4bb.css.map": "/EmanoelVitor/react-hn-book-search.git/static/css/main.6555e4bb.css.map",
+    "main.68a92753.js.map": "/EmanoelVitor/react-hn-book-search.git/static/js/main.68a92753.js.map",
+    "453.a6cf9390.chunk.js.map": "/EmanoelVitor/react-hn-book-search.git/static/js/453.a6cf9390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6555e4bb.css",
+    "static/js/main.68a92753.js"
+  ]
+}
